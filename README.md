@@ -164,22 +164,6 @@ ALLOWED_ORIGINS=http://localhost:3000
 NODE_ENV=development
 ```
 
-## 📁 Project Structure
-
-```
-IRC-chat/
-├── comprehensive-server.js   # Main server (combines all features)
-├── package.json             # Dependencies and scripts
-├── public/
-│   └── index.html          # Web client interface  
-├── ssl/                    # Auto-generated SSL certificates (created on first run)
-├── logs/                   # Security and chat logs
-│   ├── security.log       # Authentication & admin actions
-│   └── chat.log          # Chat messages
-├── COMPREHENSIVE-GUIDE.md  # Detailed configuration guide
-└── README.md              # This file
-```
-
 ## 🔒 Security Features Details
 
 ### Rate Limiting
