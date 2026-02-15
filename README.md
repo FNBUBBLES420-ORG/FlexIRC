@@ -224,19 +224,6 @@ KNOWN_SERVERS=localhost:3001 npm start
 - Network topology management
 - Server status monitoring
 
-## 🧪 Testing
-
-```bash
-# Test basic functionality
-npm test
-
-# Test federation features
-npm run test-federated
-
-# Test single server connection
-npm run test-single
-```
-
 ## 📊 Monitoring & Logs
 
 ### Health Check
@@ -273,7 +260,23 @@ Shows connected servers and network topology.
 - Configure firewall rules for federation ports
 - Set up database for persistent user data (future enhancement)
 
-## 🛠️ Available Scripts
+## � Installation & User Guide
+
+### Windows Installer
+FlexIRC comes with a complete Windows installer and user guide. For end-users who want to install and use FlexIRC:
+
+**📖 See:** [INSTALLER-README.md](INSTALLER-README.md)
+
+This guide includes:
+- **System Requirements** - Windows 11 compatibility and hardware needs
+- **Installation Steps** - Complete installer walkthrough
+- **First-Time Setup** - Desktop app configuration and server startup
+- **Usage Instructions** - How to start the server and connect friends
+- **Troubleshooting** - Common issues and solutions for end-users
+
+The installer guide is designed for non-technical users who want to quickly set up their own IRC server using the desktop application.
+
+## �🛠️ Available Scripts
 
 | Script | Description | Configuration |
 |--------|-------------|---------------|
