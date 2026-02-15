@@ -229,22 +229,7 @@ Shows connected servers and network topology.
 - `logs/chat.log`: All chat messages and user activity
 - `logs/federation.log`: Server-to-server communication (if enabled)
 
-## 🚀 Deployment & Windows Installer
-
-### Preparation Steps
-1. **Test thoroughly** with your chosen configuration
-2. **Bundle for distribution** using pkg, electron, or similar
-3. **Include SSL certificates** if using HTTPS mode  
-4. **Create installer** with Inno Setup, NSIS, or Advanced Installer
-
-### Production Considerations
-- Replace self-signed certificates with proper SSL certs
-- Use environment variables for sensitive configuration
-- Set up reverse proxy (nginx/Apache) for public deployment
-- Configure firewall rules for federation ports
-- Set up database for persistent user data (future enhancement)
-
-## � Installation & User Guide
+## Installation & User Guide
 
 ### Windows Installer
 FlexIRC comes with a complete Windows installer and user guide. For end-users who want to install and use FlexIRC:
@@ -260,7 +245,7 @@ This guide includes:
 
 The installer guide is designed for non-technical users who want to quickly set up their own IRC server using the desktop application.
 
-## �🛠️ Available Scripts
+## 🛠️ Available Scripts
 
 | Script | Description | Configuration |
 |--------|-------------|---------------|
@@ -269,7 +254,6 @@ The installer guide is designed for non-technical users who want to quickly set 
 | `npm run federated` | Network mode | Federation enabled |
 | `npm run ultra-secure` | Security mode | Encryption + 2FA |
 | `npm run dev` | Development mode | Auto-reload |
-| `npm test` | Run tests | - |
 
 ## 🤝 Contributing
 
