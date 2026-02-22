@@ -51,7 +51,7 @@
     "xss": "^1.0.15"
   },
   "devDependencies": {
-    "electron": "^40.4.1",
+    "electron": "^40.6.0",
     "electron-builder": "^26.7.0",
     "nodemon": "^3.1.7"
   },
