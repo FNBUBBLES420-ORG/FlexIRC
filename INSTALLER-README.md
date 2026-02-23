@@ -12,7 +12,7 @@ Welcome to **FlexIRC** - Your flexible IRC chat server with an easy-to-use deskt
 
 ### Installing FlexIRC
 
-1. **Download the installer**: `FlexIRC_Installer_1.0.0.exe`
+1. **Download the installer**: `FlexIRC_Installer_0.0.3.exe`
 2. **Right-click** → **"Run as administrator"** (recommended)
 3. **Follow the installer wizard**:
    - Choose installation directory
@@ -187,6 +187,7 @@ C:\Users\[username]\AppData\Roaming\flexirc\logs\
 **Questions?** Check the **Help & Info** tab in the desktop application for more details and advanced configuration options.
 
 ---
+
 **FlexIRC v1.0** - Flexible, secure chat for everyone! 🚀
 
 
