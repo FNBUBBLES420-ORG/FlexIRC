@@ -11,6 +11,9 @@
 
 A flexible, feature-complete IRC chat server built with Node.js and WebSockets. Combines basic security, federation networking, and ultra-secure encryption into one configurable application with an intuitive desktop GUI.
 
+*Current Version 0.0.5*
+- [Download FlexIRC 0.0.5](https://github.com/FNBUBBLES420-ORG/FlexIRC/releases)
+
 ## ✨ Features Overview
 
 ### 🔐 Core Security
