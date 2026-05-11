@@ -1,6 +1,6 @@
 # 🚀 FlexIRC
 
-[![Version](https://img.shields.io/badge/version-0.0.3-blue.svg)](https://github.com/username/flexirc)
+[![Version](https://img.shields.io/badge/version-0.0.13-blue.svg)](https://github.com/username/flexirc)
 [![License](https://img.shields.io/badge/license-GNUV3-green.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node-14+-brightgreen.svg)](https://nodejs.org)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/username/flexirc)
@@ -11,8 +11,8 @@
 
 A flexible, feature-complete IRC chat server built with Node.js and WebSockets. Combines basic security, federation networking, and ultra-secure encryption into one configurable application with an intuitive desktop GUI.
 
-*Current Version 0.0.5*
-- [Download FlexIRC 0.0.5](https://github.com/FNBUBBLES420-ORG/FlexIRC/releases)
+*Current Version 0.0.13*
+- [Download FlexIRC 0.0.13](https://github.com/FNBUBBLES420-ORG/FlexIRC/releases)
 
 ## ✨ Features Overview
 
