@@ -1,6 +1,6 @@
 {
   "name": "flexirc",
-  "version": "0.0.13",
+  "version": "0.0.15",
   "description": "A flexible IRC chat server with configurable security and federation features",
   "main": "main.js",
   "homepage": "./",
