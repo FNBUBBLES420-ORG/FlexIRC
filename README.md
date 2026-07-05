@@ -1,6 +1,6 @@
 # FlexIRC
 
-[![Version](https://img.shields.io/badge/version-0.0.16-blue.svg)](./package.json)
+[![Version](https://img.shields.io/badge/version-0.0.25-blue.svg)](./package.json)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./package.json)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](./package.json)
 [![Language](https://img.shields.io/badge/language-JavaScript-yellow.svg)](./package.json)
@@ -21,7 +21,7 @@ FlexIRC is a configurable IRC-style chat server with a browser client and an Ele
 
 ## Current version
 
-- App version: `0.0.16`
+- App version: `0.0.25`
 - License: `MIT`
 - Main server entry point: `comprehensive-server.js`
 - Desktop app entry point: `main.js`
